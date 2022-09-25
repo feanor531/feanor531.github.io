@@ -1,0 +1,24 @@
+@font-face {
+    font-family: DancingScript-VariableFont_wght;
+    src: url(fonts/DancingScript-VariableFont_wght.ttf);
+}
+
+#header {
+    font-family: DancingScript-VariableFont_wght;
+    font-size: 120;
+    text-align: center;
+}
+
+.line {
+    display: flex;
+}
+pre {
+    font-family: DancingScript-VariableFont_wght;
+    font-size: 48;
+    text-align: left;
+}
+
+img {
+    width: 300px;
+    padding: 30px;
+}
